@@ -3,7 +3,7 @@
 
 ```
 while alive == true:
-  drink-tea = True
-  eat = True
-  sleep = True
+    drink-tea = True
+    eat = True
+    sleep = True
 ```
