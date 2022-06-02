@@ -1,1 +1,2 @@
-### <h3 align="center">Hey</h3>
+<h2 align="center">Hey</h2>
+<p align="center">welcome to my GitHub page.</p>
