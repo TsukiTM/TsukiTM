@@ -3,7 +3,7 @@
 
 ```python
 while alive == true:
-    drink-tea = True
-    eat = True
-    sleep = True
+    ☕ drink_tea = True
+    🌿 eat = True
+    🛏️ sleep = True
 ```
